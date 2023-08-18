@@ -1,0 +1,73 @@
+﻿
+[
+  {
+    "name": "pineapple",
+    "color": "yellow",
+    "img": "https://images.unsplash.com/photo-1589820296156-2454bb8a6ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+    "taste": "sweet",
+    "origin": "South America"
+  },
+  {
+    "name": "apple",
+    "color": "red",
+    "img": "https://images.unsplash.com/photo-1590005354167-6da97870c757?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=881&q=80",
+    "taste": "sweet",
+    "origin": "Kazakhstan"
+  },
+  {
+    "name": "blueberry",
+    "color": "blue",
+    "img": "https://images.unsplash.com/photo-1554795808-3231c32711cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=736&q=80",
+    "taste": "sweet",
+    "origin": "North America"
+  },
+  {
+    "name": "grape",
+    "color": "purple",
+    "img": "https://images.unsplash.com/photo-1637715924886-cbe4485f90b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80",
+    "taste": "sweet",
+    "origin": "Transcaucasian region"
+  },
+  {
+    "name": "lime",
+    "color": "green",
+    "img": "https://images.unsplash.com/photo-1622212611568-32d624f5f0ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "taste": "sour",
+    "origin": "Malaysia"
+  },
+  {
+    "name": "peach",
+    "color": "pink",
+    "img": "https://images.unsplash.com/photo-1595124245030-41448b199d6d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80",
+    "taste": "sweet",
+    "origin": "China"
+  },
+  {
+    "name": "raspberry",
+    "color": "red",
+    "img": "https://images.unsplash.com/photo-1530983820165-35b7aa38a105?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "taste": "sour",
+    "origin": "Greece"
+  },
+  {
+    "name": "mango",
+    "color": "yellow",
+    "img": "https://images.unsplash.com/photo-1591073113125-e46713c829ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+    "taste": "sweet",
+    "origin": "Malaysia"
+  },
+  {
+    "name": "blackberry",
+    "color": "black",
+    "img": "https://images.unsplash.com/photo-1615218370629-da07db3571a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "taste": "sweet",
+    "origin": "Europe"
+  },
+  {
+    "name": "watermelon",
+    "color": "green",
+    "img": "https://images.unsplash.com/photo-1595475207225-428b62bda831?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80",
+    "taste": "sweet",
+    "origin": "Africa"
+  }
+]
